@@ -1,1 +1,1 @@
-https://github.com/rinku191/AppSec_Concept_URLs_for_Interview_Preparation/wiki
+https://github.com/rinku191/AppSec_Topics_for_Interview/wiki
